@@ -1,9 +1,9 @@
 {
-    "name": "BADBOY BY BADBOY MODER",
+    "name": "ADHI-SER",
     "description": "pinky bot - re-edited from asena. World’s first UserBot made for WhatsApp.",
     "logo": "https://avatars.githubusercontent.com/u/83832372?v=4",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
-    "repository": "https://github.com/afnanplk/lastpink",
+    "repository": "https://github.com/ADHI-SER2/adhiser",
     "website":   "under maintenance",
     "success_url": "under maintenance",
     "stack": "container",
@@ -39,7 +39,7 @@
          "THERI_KICK": {
             "description": "THERI VILICHAL KICK IF TRUE , just keep it false as this option is under maintanance ",
             "required": true,
-            "value": "false"
+            "value": "true"
         },
         "AUTO_BİO": {
             "description": "Duruma otomatik tarih ve zaman eklemek için true yapın. Set true for auto date, time in biography.",
@@ -49,7 +49,7 @@
         "OWNER_NAME": {
             "description": "reply for .owner ! give your details, Use => default, to change back.",
             "required": false,
-            "value": "default"
+            "value": "ADHI-SER"
         },    
         "HANDLERS": {
             "description": "Komutlar için. For commands.",
@@ -64,12 +64,12 @@
         "Z_BOT_NAME": {
             "description": "give a name you disire to give your bot (for auto reply pinkt to identify)",
             "required": false,
-            "value": "PINKY"
+            "value": "ADHIv3"
         },
         "Z_DEP_NAME": {
             "description": "bot deployer name make it short  (for auto reply pinkt to identify)",
             "required": false,
-            "value": "plk"
+            "value": "Adhi"
         },
         "Z_BOT_REPLY": {
             "description": "enter the repply message you want when deployer name is typed by users  (for auto reply pinkt to identify)",
@@ -109,7 +109,7 @@
          "BOT_NAME": {
             "description": "heading for .list command reply",
             "required": false,
-            "value": "•━━━━╼⤏PINKY BOT⤎╾━━━•"
+            "value": "•━━━━╼⤏ADHI-SER⤎╾━━━•"
         },
         "HEROKU_API_KEY": {
             "description": "Herokuda API Keyiniz. Heroku API Key.",
@@ -128,7 +128,7 @@
         "TAG_HEADER": {
             "description": "Heading when taging all",
             "required": false,
-            "value": "hear me friends"
+            "value": "ADHI-SER"
         },
         "UNMUTE_MESSAGE": {
             "description": "Düzenlenebilir Unmute Mesajı. Customizable Unmute Message! Use => default, to change back.",
@@ -166,7 +166,7 @@
         "ALIVE_MESSAGE": {
             "description": "Customizable Alive Message! Use => default, to change back.",
             "required": false,
-            "value": "i am alive  \n\n ```coded by afnan pallikkel```"
+            "value": "Njan evidea ond \n\n ```coded by *ADHI-SER* @919072501166```"
         },
         "BAN_MESSAGE": {
             "description": "Customizable kick Message! Use => default, to change back.",
@@ -206,7 +206,7 @@
         "GAN_IMAGE": {
             "description": "Gan Style eklentisi için resim bağlantısı yazın. Type image link for Gan Style plugin.",
             "required": true,
-            "value": "https://i.hizliresim.com/loUtAb.jpg"
+            "value": "adhiser.jpg"
         },
         "TAG_REPLY": {
             "description": "Enter jid of your number so that you get a audio reply when metioned example - 91xxxxxxxxxx@s.whatsapp.net - for india",
